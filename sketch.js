@@ -21,7 +21,7 @@ function corporationDownload() {
 const chartSettings = {
     type: 'bar',
     data: {
-        labels: ['Windows 10', 'Windows 7', 'MacOS','Ubuntu', 'Chrome OS', 'Hello World OS'],
+        labels: ['Windows 10', 'Windows 7', 'MacOS','Ubuntu', 'Chrome OS', 'HelloUKOS'],
         datasets: [
             {
                 data: [15.64 * 1024, 10.50 * 1024, 12.23 * 1024, 4.5 * 1024, 4 * 1024, 16/1024],
